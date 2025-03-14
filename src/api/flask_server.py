@@ -30,6 +30,32 @@ print("MediaPipe Pose initialized.")
 
 @app.route('/analyze', methods=['POST'])
 def analyze_video():
+    """
+    Flask route to analyze a video file uploaded by the client.
+    Route: /analyze
+    Method: POST
+    Workflow:
+    1. Receive video file from the client.
+    2. Save the video file to a specified directory.
+    3. Open the video file using OpenCV.
+    4. Initialize variables to store skating metrics and processed frames.
+    5. Process the video frame by frame:
+        - Skip every 10 frames to speed up processing.
+        - Convert each frame to RGB.
+        - Use a pose estimation model to extract pose landmarks.
+        - Calculate skating metrics for each frame with detected landmarks.
+        - Draw pose landmarks on the frame and save the processed frame.
+    6. Calculate time series metrics from the collected skating metrics.
+    7. Release the video capture object.
+    8. Scale the features and make AI predictions.
+    9. Prepare feedback based on the predictions.
+    10. Return a JSON response containing the feedback and paths to processed frames.
+    Returns:
+        JSON response with feedback on skating metrics and paths to processed frames.
+    Raises:
+        400 Error if the video file cannot be opened.
+    """
+
     print("Received request to analyze video.")
     
     # Receive video file from client
@@ -81,6 +107,12 @@ def analyze_video():
 
             # Save processed frame with pose drawing
             mp_drawing.draw_landmarks(frame, results.pose_landmarks, mp_pose.POSE_CONNECTIONS)
+            
+            # Check and fix frame orientation
+            # If the frame is in portrait mode, rotate it to landscape
+            if frame.shape[0] > frame.shape[1]:
+                frame = cv2.rotate(frame, cv2.ROTATE_90_CLOCKWISE)
+            
             frame_path = f"uploads/processed_frame_{frame_count}.jpg"
             cv2.imwrite(frame_path, frame)
             processed_frames.append(frame_path)
@@ -115,6 +147,16 @@ def analyze_video():
 
 @app.route('/get_frame/<frame_name>')
 def get_frame(frame_name):
+    """
+    Serve the processed frame image to the client.
+
+    Args:
+        frame_name (str): The name of the frame image file to be served.
+
+    Returns:
+        Response: A Flask response object that sends the requested image file with a MIME type of 'image/jpeg'.
+    """
+
     """Serve the processed frame image to the client."""
     frame_path = f"../../uploads/{frame_name}"
     return send_file(frame_path, mimetype='image/jpeg')

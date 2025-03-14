@@ -35,6 +35,22 @@ if uploaded_file:
                 img = Image.open(BytesIO(img_response.content))
                 st.image(img, caption=f"Processed Frame {frame_name}")
             
-            st.write(feedback[i])
+            st.write(f"**Feedback for Frame {i+1}:**")
+            feedback_list = feedback[i]
+            # Feedback for Frame
+            if "Feedback" in feedback_list and isinstance(feedback_list["Feedback"], list):
+                st.write("**Feedback:**")
+                for sub_item in feedback_list["Feedback"]:
+                    if isinstance(sub_item, dict):
+                        for sub_key, sub_value in sub_item.items():
+                            st.write(f"- **{sub_key}**: {sub_value}")
+                    else:
+                        st.write(f"- {sub_item}")
+
+            # Metrics for Frame
+            st.write("**Metrics:**")
+            for key, value in feedback_list.items():
+                if key != "Feedback":
+                    st.write(f"- **{key}**: {value}")
     else:
         st.write("❌ Error processing video.")
