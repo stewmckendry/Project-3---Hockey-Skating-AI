@@ -1,0 +1,141 @@
+{"metric":"knee_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Needs Improvement","feedback_string":null}
+{"metric":"knee_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Average","feedback_string":null}
+{"metric":"knee_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Good","feedback_string":null}
+{"metric":"knee_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Try to bend your knees more"}
+{"metric":"knee_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Keep practicing"}
+{"metric":"knee_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Great job!"}
+{"metric":"knee_angle","video_type":null,"threshold_value":null,"label_code":0.0,"label_string":null,"feedback_string":null}
+{"metric":"knee_angle","video_type":null,"threshold_value":null,"label_code":1.0,"label_string":null,"feedback_string":null}
+{"metric":"knee_angle","video_type":null,"threshold_value":null,"label_code":2.0,"label_string":null,"feedback_string":null}
+{"metric":"knee_angle","video_type":"beginner","threshold_value":169.6505728421,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"knee_angle","video_type":"intermediate","threshold_value":148.957579629,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"knee_angle","video_type":"elite","threshold_value":139.5452722737,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"stride_length","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Needs Improvement","feedback_string":null}
+{"metric":"stride_length","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Average","feedback_string":null}
+{"metric":"stride_length","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Good","feedback_string":null}
+{"metric":"stride_length","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Increase your stride length"}
+{"metric":"stride_length","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Keep practicing"}
+{"metric":"stride_length","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Great job!"}
+{"metric":"stride_length","video_type":null,"threshold_value":null,"label_code":0.0,"label_string":null,"feedback_string":null}
+{"metric":"stride_length","video_type":null,"threshold_value":null,"label_code":1.0,"label_string":null,"feedback_string":null}
+{"metric":"stride_length","video_type":null,"threshold_value":null,"label_code":2.0,"label_string":null,"feedback_string":null}
+{"metric":"stride_length","video_type":"beginner","threshold_value":0.0354625031,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"stride_length","video_type":"intermediate","threshold_value":0.0764854233,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"stride_length","video_type":"elite","threshold_value":0.0714027229,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"stride_cadence","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Needs Improvement","feedback_string":null}
+{"metric":"stride_cadence","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Average","feedback_string":null}
+{"metric":"stride_cadence","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Good","feedback_string":null}
+{"metric":"stride_cadence","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Increase your cadence"}
+{"metric":"stride_cadence","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Keep practicing"}
+{"metric":"stride_cadence","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Great job!"}
+{"metric":"stride_cadence","video_type":null,"threshold_value":null,"label_code":0.0,"label_string":null,"feedback_string":null}
+{"metric":"stride_cadence","video_type":null,"threshold_value":null,"label_code":1.0,"label_string":null,"feedback_string":null}
+{"metric":"stride_cadence","video_type":null,"threshold_value":null,"label_code":2.0,"label_string":null,"feedback_string":null}
+{"metric":"stride_cadence","video_type":"beginner","threshold_value":56.2232170053,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"stride_cadence","video_type":"intermediate","threshold_value":55.3338968724,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"stride_cadence","video_type":"elite","threshold_value":117.3955578101,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"lean_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Needs Improvement","feedback_string":null}
+{"metric":"lean_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Average","feedback_string":null}
+{"metric":"lean_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Good","feedback_string":null}
+{"metric":"lean_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Lean forward more"}
+{"metric":"lean_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Keep practicing"}
+{"metric":"lean_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Great job!"}
+{"metric":"lean_angle","video_type":null,"threshold_value":null,"label_code":0.0,"label_string":null,"feedback_string":null}
+{"metric":"lean_angle","video_type":null,"threshold_value":null,"label_code":1.0,"label_string":null,"feedback_string":null}
+{"metric":"lean_angle","video_type":null,"threshold_value":null,"label_code":2.0,"label_string":null,"feedback_string":null}
+{"metric":"lean_angle","video_type":"beginner","threshold_value":159.6233790124,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"lean_angle","video_type":"intermediate","threshold_value":153.4462751623,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"lean_angle","video_type":"elite","threshold_value":136.3434511794,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"hip_stability","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Needs Improvement","feedback_string":null}
+{"metric":"hip_stability","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Average","feedback_string":null}
+{"metric":"hip_stability","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Good","feedback_string":null}
+{"metric":"hip_stability","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Improve your hip stability"}
+{"metric":"hip_stability","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Keep practicing"}
+{"metric":"hip_stability","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Great job!"}
+{"metric":"hip_stability","video_type":null,"threshold_value":null,"label_code":0.0,"label_string":null,"feedback_string":null}
+{"metric":"hip_stability","video_type":null,"threshold_value":null,"label_code":1.0,"label_string":null,"feedback_string":null}
+{"metric":"hip_stability","video_type":null,"threshold_value":null,"label_code":2.0,"label_string":null,"feedback_string":null}
+{"metric":"hip_stability","video_type":"beginner","threshold_value":0.0172092982,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"hip_stability","video_type":"intermediate","threshold_value":0.0343988863,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"hip_stability","video_type":"elite","threshold_value":0.0374426303,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"arm_swing_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Needs Improvement","feedback_string":null}
+{"metric":"arm_swing_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Average","feedback_string":null}
+{"metric":"arm_swing_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Good","feedback_string":null}
+{"metric":"arm_swing_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Improve your arm swing"}
+{"metric":"arm_swing_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Keep practicing"}
+{"metric":"arm_swing_angle","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Great job!"}
+{"metric":"arm_swing_angle","video_type":null,"threshold_value":null,"label_code":0.0,"label_string":null,"feedback_string":null}
+{"metric":"arm_swing_angle","video_type":null,"threshold_value":null,"label_code":1.0,"label_string":null,"feedback_string":null}
+{"metric":"arm_swing_angle","video_type":null,"threshold_value":null,"label_code":2.0,"label_string":null,"feedback_string":null}
+{"metric":"arm_swing_angle","video_type":"beginner","threshold_value":71.0276302245,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"arm_swing_angle","video_type":"intermediate","threshold_value":87.7884036102,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"arm_swing_angle","video_type":"elite","threshold_value":69.4046543372,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"velocity","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Needs Improvement","feedback_string":null}
+{"metric":"velocity","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Average","feedback_string":null}
+{"metric":"velocity","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Good","feedback_string":null}
+{"metric":"velocity","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Increase your speed"}
+{"metric":"velocity","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Keep practicing"}
+{"metric":"velocity","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Great job!"}
+{"metric":"velocity","video_type":null,"threshold_value":null,"label_code":0.0,"label_string":null,"feedback_string":null}
+{"metric":"velocity","video_type":null,"threshold_value":null,"label_code":1.0,"label_string":null,"feedback_string":null}
+{"metric":"velocity","video_type":null,"threshold_value":null,"label_code":2.0,"label_string":null,"feedback_string":null}
+{"metric":"velocity","video_type":"beginner","threshold_value":0.0,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"velocity","video_type":"intermediate","threshold_value":0.0,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"velocity","video_type":"elite","threshold_value":0.0,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"acceleration","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Needs Improvement","feedback_string":null}
+{"metric":"acceleration","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Average","feedback_string":null}
+{"metric":"acceleration","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Good","feedback_string":null}
+{"metric":"acceleration","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Improve your acceleration"}
+{"metric":"acceleration","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Keep practicing"}
+{"metric":"acceleration","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Great job!"}
+{"metric":"acceleration","video_type":null,"threshold_value":null,"label_code":0.0,"label_string":null,"feedback_string":null}
+{"metric":"acceleration","video_type":null,"threshold_value":null,"label_code":1.0,"label_string":null,"feedback_string":null}
+{"metric":"acceleration","video_type":null,"threshold_value":null,"label_code":2.0,"label_string":null,"feedback_string":null}
+{"metric":"acceleration","video_type":"beginner","threshold_value":1.5439197983,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"acceleration","video_type":"intermediate","threshold_value":-7.0636203799,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"acceleration","video_type":"elite","threshold_value":-4.8023708057,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"velocity_change","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Erratic Speed","feedback_string":null}
+{"metric":"velocity_change","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Smooth Speed","feedback_string":null}
+{"metric":"velocity_change","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Maintain a consistent speed"}
+{"metric":"velocity_change","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Great job!"}
+{"metric":"velocity_change","video_type":null,"threshold_value":null,"label_code":0.0,"label_string":null,"feedback_string":null}
+{"metric":"velocity_change","video_type":null,"threshold_value":null,"label_code":1.0,"label_string":null,"feedback_string":null}
+{"metric":"velocity_change","video_type":"beginner","threshold_value":0.0,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"velocity_change","video_type":"intermediate","threshold_value":0.0,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"velocity_change","video_type":"elite","threshold_value":0.0,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"acceleration_change","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Weak Push-Off","feedback_string":null}
+{"metric":"acceleration_change","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Strong Push-Off","feedback_string":null}
+{"metric":"acceleration_change","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Improve your push-off"}
+{"metric":"acceleration_change","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Great job!"}
+{"metric":"acceleration_change","video_type":null,"threshold_value":null,"label_code":0.0,"label_string":null,"feedback_string":null}
+{"metric":"acceleration_change","video_type":null,"threshold_value":null,"label_code":1.0,"label_string":null,"feedback_string":null}
+{"metric":"acceleration_change","video_type":"beginner","threshold_value":-0.6843117631,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"acceleration_change","video_type":"intermediate","threshold_value":-7.2324379599,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"acceleration_change","video_type":"elite","threshold_value":-3.1577114426,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"stride_consistency","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Unstable Stride","feedback_string":null}
+{"metric":"stride_consistency","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Stable Stride","feedback_string":null}
+{"metric":"stride_consistency","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Improve your stride consistency"}
+{"metric":"stride_consistency","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Great job!"}
+{"metric":"stride_consistency","video_type":null,"threshold_value":null,"label_code":0.0,"label_string":null,"feedback_string":null}
+{"metric":"stride_consistency","video_type":null,"threshold_value":null,"label_code":1.0,"label_string":null,"feedback_string":null}
+{"metric":"stride_consistency","video_type":"beginner","threshold_value":0.0304946966,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"stride_consistency","video_type":"intermediate","threshold_value":0.0573541267,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"stride_consistency","video_type":"elite","threshold_value":0.0695472126,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"cadence_stability","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Inconsistent Cadence","feedback_string":null}
+{"metric":"cadence_stability","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Consistent Cadence","feedback_string":null}
+{"metric":"cadence_stability","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Maintain a consistent cadence"}
+{"metric":"cadence_stability","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Great job!"}
+{"metric":"cadence_stability","video_type":null,"threshold_value":null,"label_code":0.0,"label_string":null,"feedback_string":null}
+{"metric":"cadence_stability","video_type":null,"threshold_value":null,"label_code":1.0,"label_string":null,"feedback_string":null}
+{"metric":"cadence_stability","video_type":"beginner","threshold_value":0.0,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"cadence_stability","video_type":"intermediate","threshold_value":0.0,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"cadence_stability","video_type":"elite","threshold_value":0.0,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"knee_stability","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Unstable Knee Control","feedback_string":null}
+{"metric":"knee_stability","video_type":null,"threshold_value":null,"label_code":null,"label_string":"Stable Knee Control","feedback_string":null}
+{"metric":"knee_stability","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Improve your knee stability"}
+{"metric":"knee_stability","video_type":null,"threshold_value":null,"label_code":null,"label_string":null,"feedback_string":"Great job!"}
+{"metric":"knee_stability","video_type":null,"threshold_value":null,"label_code":0.0,"label_string":null,"feedback_string":null}
+{"metric":"knee_stability","video_type":null,"threshold_value":null,"label_code":1.0,"label_string":null,"feedback_string":null}
+{"metric":"knee_stability","video_type":"beginner","threshold_value":153.490963832,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"knee_stability","video_type":"intermediate","threshold_value":374.4463339531,"label_code":null,"label_string":null,"feedback_string":null}
+{"metric":"knee_stability","video_type":"elite","threshold_value":1431.7282056138,"label_code":null,"label_string":null,"feedback_string":null}

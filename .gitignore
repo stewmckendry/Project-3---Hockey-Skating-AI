@@ -1,0 +1,11 @@
+venv310/
+# Ignore all MP4 and JPEG files
+*.mp4
+*.MP4
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.mov
+*.MOV*.MOV
+*.MOV
